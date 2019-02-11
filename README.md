@@ -1,17 +1,12 @@
 # ringberg-example
 
 Hallo und das hier ist der erste kleine commit.
-Martin
-Alex
-Alex2
+Philipp :-)
 
-Helmut's Veränderung...
 
-Martin
-Test & Alex
+...
 
-## Überschrift Abschnitt 1
+________________
 
-Test ....
 
-## Abschnitt 2
+
